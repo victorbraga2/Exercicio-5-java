@@ -1,0 +1,13 @@
+run:
+Digite o primeiro número: 
+7
+Digite o segundo número: 
+7
+6
+Digite a nota do exame: 
+
+3
+A média do exame é: 
+35
+Aprovado!
+BUILD SUCCESSFUL (total time: 13 seconds)
